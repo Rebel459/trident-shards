@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "trident_shards:trident_shard"
+    },
+    "2": {
+      "item": "trident_shards:trident_shard"
+    },
+    "4": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "5": {
+      "item": "trident_shards:trident_shard"
+    },
+    "6": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:trident",
+    "count": 1
+  }
+}
